@@ -1,6 +1,6 @@
 # Shotang-App
 
-## Screenshots
+## Screenshot
 
 **Please click the image below to enlarge.**
 
